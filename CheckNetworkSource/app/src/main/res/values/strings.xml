@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CheckNetworkSource</string>
+    <string name="title">網路名稱</string>
+    <string name="btn_source">Check</string>
+</resources>
